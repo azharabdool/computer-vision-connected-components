@@ -1,0 +1,13 @@
+{
+  "name": "computer-vision-connected-components",
+  "description": "C++ thresholding and connected-component extraction for grayscale PGM images.",
+  "topics": [
+    "computer-vision",
+    "cpp",
+    "image-processing",
+    "algorithms"
+  ],
+  "visibility": "public",
+  "branch": "main",
+  "license": "not-assigned-pending-rights-review"
+}
